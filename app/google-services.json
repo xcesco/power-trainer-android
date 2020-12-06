@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422591308382",
+    "firebase_url": "https://power-trainer-1234.firebaseio.com",
+    "project_id": "power-trainer-1234",
+    "storage_bucket": "power-trainer-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422591308382:android:334a0215ca5be19144cacf",
+        "android_client_info": {
+          "package_name": "com.abubusoft.powertrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422591308382-e16o1tpgdabnauso8i3hp9gkcj0l2jvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abubusoft.powertrainer",
+            "certificate_hash": "b1b05b41ea0848142ea8d4acf917f0a8044b2e07"
+          }
+        },
+        {
+          "client_id": "422591308382-lio68oflsn8ul5jmvo10m704v6f4ol7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjwaimiCpGYhmLHTOXqsyrfSO82I-SSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422591308382-lio68oflsn8ul5jmvo10m704v6f4ol7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
